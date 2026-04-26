@@ -1,38 +1,27 @@
-# python_data_practice
-Practice notebooks for data cleaning, EDA, and visualizations using Python (pandas, NumPy, matplotlib).
-# Students Performance – Exploratory Data Analysis
+# Python Data Practice
 
-## Overview
-This project explores a students performance dataset using Python.  
-The goal is to understand how different factors (such as study hours or test types) relate to student scores.
+Practice notebooks for data cleaning, exploratory data analysis (EDA), and visualizations using Python (Pandas, NumPy, Matplotlib).
 
-## Tools and Libraries
-- Python
-- pandas
-- NumPy
-- matplotlib
-- seaborn
-- Jupyter Notebook
+## 🎯 Purpose of this repo
 
-## What this project contains
-- `students_performance_eda.ipynb`: Jupyter notebook with data loading, cleaning, EDA, and visualizations.
-- `students.csv`: Sample dataset used in the analysis (or link to the original dataset if it’s too big).
+As an AI & Data Science student, I use this repository to build core skills in:
 
+- Python programming
+- Working with real-world datasets
+- Data cleaning and EDA
+- Data visualization
 
-## How to run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
-2. Install required libraries (if needed):
-   ```bash
-   pip install pandas numpy matplotlib seaborn
-   ```
-3. Open the notebook:
-   ```bash
-   jupyter notebook students_performance_eda.ipynb
-   ```
+It is a learning lab, not a polished project – my goal is to show consistent practice and progress.
 
-## Future improvements
-- Try simple regression/classification models to predict student performance.
-- Add more advanced visualizations and feature engineering.
+## 📂 Structure
+
+- `notebooks/` – Jupyter notebooks for Python and data analysis practice  
+- `data/` – sample datasets used in the notebooks  
+
+## 🧰 Topics (current and planned)
+
+- Python basics (loops, functions, lists, dictionaries)  
+- Working with CSV files using Pandas  
+- Handling missing values and data cleaning  
+- Exploratory Data Analysis (EDA)  
+- Simple visualizations with Matplotlib / Seaborn
